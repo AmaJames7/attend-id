@@ -2,6 +2,9 @@ ATTEND-ID
 
 Attend-ID is a Flutter-based student attendance application that uses QR codes to support student identification and attendance management.
 
+**DOWNLOAD**
+[Download Attend-ID v1.0.0 (Android APK)](https://github.com/AmaJames7/attend-id/releases/latest)
+
 FEATURES
 Student Details: Save and manage student name and matriculation number.
 School Affiliation: Save school name and school code.
